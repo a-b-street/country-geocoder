@@ -1,5 +1,8 @@
 # country-geocoder
 
+NOTE: Deprecated / unmaintained. Use
+<https://github.com/westnordost/country-boundaries-rust/> instead.
+
 This crate takes a WGS84 coordinate and determines the [two-letter ISO country
 code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) where it exists. It
 also determines if that country drives on the left or right. It does this by
